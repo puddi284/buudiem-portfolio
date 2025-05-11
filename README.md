@@ -8,11 +8,11 @@
 
 ## 📈 Excel, Power BI, DAX, Google Sheets
 
-- [Power BI Financial Dashboard of AIESEC](https://drive.google.com/file/d/1W2dYibI8M2O3FZOEMqsNPKh7dlahToRW/view?usp=sharing): Visualizes key financial trends and metrics.
+- [Power BI Financial Dashboard of AIESEC](https://drive.google.com/file/d/1W2dYibI8M2O3FZOEMqsNPKh7dlahToRW/view?usp=sharing): Visualize key financial trends and metrics.
 
-- [Google Sheets Financial Dashboard of AIESEC](https://docs.google.com/spreadsheets/d/1rkiotPSvU4J_CP_RudX-e1EIdAyXNo661W5z9vS9l5U/edit?gid=582482231#gid=582482231): Interactive dashboard for financial performance.
+- [Google Sheets Financial Dashboard of AIESEC](https://docs.google.com/spreadsheets/d/1rkiotPSvU4J_CP_RudX-e1EIdAyXNo661W5z9vS9l5U/edit?gid=582482231#gid=582482231): Interactive dashboards for financial performance.
 
-- [Financial Variance Tracking Tool of AIESEC](https://docs.google.com/spreadsheets/d/1J60qyHB4uSa4g4VAv80CSKzvxXJWe53n4SwIR2yuJGI/edit?gid=1994393224#gid=1994393224): Tracks actuals vs. planned budgets.
+- [Financial Variance Tracking Tool of AIESEC](https://docs.google.com/spreadsheets/d/1J60qyHB4uSa4g4VAv80CSKzvxXJWe53n4SwIR2yuJGI/edit?gid=1994393224#gid=1994393224): Track actuals vs. planned budgets.
 
 ---
 
